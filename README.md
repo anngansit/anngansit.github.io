@@ -1,3 +1,3 @@
 # anngansit.github.io
-My Portfolio using HTML and CSS styling.
+My Portfolio using HTML,CSS styling, and JavaScript.
  
